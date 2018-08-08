@@ -1,0 +1,27 @@
+{
+  "name": "js-mergesort",
+  "version": "1.0.0",
+  "description": "Iterative implementation of merge sort",
+  "main": "index",
+  "scripts": {},
+  "author": "Denis Korchagin <denis.korchagin.1995@gmail.com>",
+  "license": "BSD-3-Clause",
+  "keywords": [
+    "iterative",
+    "sort",
+    "merge",
+    "mergesort",
+    "sorting"
+  ],
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denis-korchagin95/js-mergesort.git"
+  },
+  "bugs": {
+    "url": "https://github.com/denis-korchagin95/js-mergesort/issues"
+  },
+  "homepage": "https://github.com/denis-korchagin95/js-mergesort#readme"
+}
