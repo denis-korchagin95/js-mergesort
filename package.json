@@ -13,9 +13,6 @@
     "mergesort",
     "sorting"
   ],
-  "directories": {
-    "test": "tests"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/denis-korchagin95/js-mergesort.git"
@@ -23,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/denis-korchagin95/js-mergesort/issues"
   },
-  "homepage": "https://github.com/denis-korchagin95/js-mergesort#readme"
+  "homepage": "https://github.com/denis-korchagin95/js-mergesort#readme",
+  "directories": {
+    "test": "test"
+  }
 }
